@@ -3,7 +3,7 @@ Basic ML algorithms implemented with Numpy, including NaiveBayes, SVM, Ensemble 
 本程序基于Numpy模块实现机器学习中的一些基本算法，包括朴素贝叶斯、支持向量机、多层感知机、集成学习、聚类以及主成分分析
 
 1、Clustering/聚类
-基于西瓜数据集4.0 实现K均值聚类算法
+* 基于西瓜数据集4.0 实现K均值聚类算法
 
 2、EnsembleLearning/集成学习
 数据集为sonar声呐数据集，算法为Bagging(采用决策树基学习器)和随机森林
